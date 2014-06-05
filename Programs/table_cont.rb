@@ -11,3 +11,5 @@ puts (chap_1[0].to_s.ljust(line_width/3) + chap_1[1].to_s.ljust(line_width/2) + 
 puts (chap_2[0].to_s.ljust(line_width/3) + chap_2[1].ljust(line_width/2) + chap_2[2].ljust(line_width/6))
 puts (chap_3[0].to_s.ljust(line_width/3) + chap_3[1].ljust(line_width/2) + chap_3[2].ljust(line_width/6))
 puts (chap_4[0].to_s.ljust(line_width/3) + chap_4[1].ljust(line_width/2) + chap_4[2].ljust(line_width/6))
+
+
